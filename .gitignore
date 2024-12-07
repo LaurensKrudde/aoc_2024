@@ -1,3 +1,9 @@
+# Input
+input/
+
+# vscode
+.vscode/
+
 # Prerequisites
 *.d
 
